@@ -1,11 +1,11 @@
-# A Very Fun Website
-
 Click the picture below ⬇️ <br />
 <p align="left">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3">
     <img src="https://github.com/ieremy/ieremy.github.io/blob/main/assets/nevergonnagiveyouup.png" width="500" alt="rick">
   </a>
 </p>
+
+# Never Gonna Give You Up by Rick Astley
 
 We're no strangers to love <br />
 You know the rules and so do I <br />
@@ -75,6 +75,7 @@ Never gonna make you cry<br />
 Never gonna say goodbye<br />
 Never gonna tell a lie and hurt you<br />
 
+Click to buy the Album ⬇️ <br />
 <p align="left">
   <a href="https://www.amazon.com/Never-Gonna-Give-You-Up/dp/B001BK9SMY">
     <img src="https://github.com/ieremy/ieremy.github.io/blob/main/assets/rickAstleyAlbum.jpg" width="500" alt="rick">
