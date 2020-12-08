@@ -1,13 +1,11 @@
-# Welcome Stranger
-
-<p align="right">
-  <a href="https://github.com/ieremy/ieremy.github.io/blob/main/assets/highHello.gif">
-    <img src="https://github.com/ieremy/ieremy.github.io/blob/main/assets/highHello.gif" width="500" alt="Hello!">
-  </a>
-</p>
+# A Very Fun Website
 
 Click the picture below ⬇️ <br />
-[![Rick Astley](https://github.com/ieremy/ieremy.github.io/blob/main/assets/nevergonnagiveyouup.png](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Rick Astley")
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3">
+    <img src="https://github.com/ieremy/ieremy.github.io/blob/main/assets/nevergonnagiveyouup.png" width="500" alt="rick">
+  </a>
+</p>
 
 We're no strangers to love <br />
 You know the rules and so do I <br />
@@ -76,3 +74,9 @@ Never gonna run around and desert you<br />
 Never gonna make you cry<br />
 Never gonna say goodbye<br />
 Never gonna tell a lie and hurt you<br />
+
+<p align="left">
+  <a href="https://www.amazon.com/Never-Gonna-Give-You-Up/dp/B001BK9SMY">
+    <img src="https://github.com/ieremy/ieremy.github.io/blob/main/assets/rickAstleyAlbum.jpg" width="500" alt="rick">
+  </a>
+</p>
