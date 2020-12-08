@@ -1,7 +1,13 @@
 # Welcome Stranger
 
-Click the picture below ⬇️
-[![Rick Astley](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Rick Astley")
+<p align="center">
+  <a href="https://github.com/ieremy/ieremy.github.io/blob/master/assets/highHello.gif">
+    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/highHello.gif" width="500" alt="Hello!">
+  </a>
+</p>
+
+Click the picture below ⬇️ <br />
+[![Rick Astley](https://github.com/ieremy/ieremy.github.io/blob/master/assets/nevergonnagiveyouup.png](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Rick Astley")
 
 We're no strangers to love <br />
 You know the rules and so do I <br />
